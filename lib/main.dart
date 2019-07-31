@@ -136,7 +136,7 @@ class _MypAppState extends State<MyApp> {
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: <Widget>[
                                   Text(
-                                    "Rails",
+                                    "Ralis",
                                     style: productTitleStyle,
                                   ),
                                   SizedBox(height: 4),
@@ -147,7 +147,7 @@ class _MypAppState extends State<MyApp> {
               Positioned(
                 right: 15,
                 top: -5,
-                child: Image.asset("assets/img_01.jpg"),
+                child: Image.asset("assets/img_04.png"),
               )
             ]),
           )
